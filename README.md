@@ -61,5 +61,5 @@ It demonstrates the basic **CRUD** operations — Create, Read, Update, and Dele
 ---
 
 ## 🧠 Author
-**Your Name Here**  
-BSIT Student – PHP/MySQL Activity  
+**MARC OLIVER BONEZA**  
+UCOS Student – PHP/MySQL Activity  
